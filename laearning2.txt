@@ -1,21 +1,32 @@
-
-  var student_name = "Abdulrazzaqqureshi";
-  int level = 01; 
- String heading = "*Mark_Sheet*";
-double english = 60;
-num math = 70;
-  int urdu = 80;
-var result = english+math+urdu;
-  var total_marks = 300;
-double percentage = result/300*100;
-print ('Student Name: ${student_name}\nClass: ${level}\n${heading}\nEnglish: ${english}\nMath: ${math}\nUrdu: ${urdu}\nObtained Marks = ${result}\nTotal = ${total_marks}\nPercentage% = ${percentage}');
+// numeric integer
   
-  if (percentage>=95){;
-    print ("Grade A");
-  }else  if (percentage>=80){
-    print ("Grade B");
-  }else if (percentage>=75){
-    print ("Grade C");
-}else if (percentage<=75){
-    print ("Grade FAIL");
-  hello world karachi
+//int name =112;
+//   print (name) ;
+     
+//   double name =1.12;
+//   print (name) ;
+    
+//   num name =112;
+//   print (name) ;
+       
+//    var name ={"112","1.23","razzaq"};
+//   print (name) ;  
+    
+//      Concatenation
+  
+//     var name ="razzaq";
+//     var age = "22";
+//    print (" $name is $age year old");
+    
+//   all work some up
+  
+//  /*  int name1=22;
+// 
+//     double name2=2021;
+//  
+//    num name3=90;
+//    
+//    String name5 ="Qureshi";
+//      var name4="Abdul Razzaq";
+//    print(" $name4 $name5 is $name1 year old .\n He get $name3 percentage.\n First position in exam in $name2");*\
+   
