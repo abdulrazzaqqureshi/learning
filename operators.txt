@@ -1,0 +1,32 @@
+// numeric integer
+  
+//int name =112;
+//   print (name) ;
+     
+//   double name =1.12;
+//   print (name) ;
+    
+//   num name =112;
+//   print (name) ;
+       
+//    var name ={"112","1.23","razzaq"};
+//   print (name) ;  
+    
+//      Concatenation
+  
+//     var name ="razzaq";
+//     var age = "22";
+//    print (" $name is $age year old");
+    
+//   all work some up
+  
+//  /*  int name1=22;
+// 
+//     double name2=2021;
+//  
+//    num name3=90;
+//    
+//    String name5 ="Qureshi";
+//      var name4="Abdul Razzaq";
+//    print(" $name4 $name5 is $name1 year old .\n He get $name3 percentage.\n First position in exam in $name2");*\
+   vaiara
